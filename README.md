@@ -1,4 +1,4 @@
-## Chat Application - OptiChat
+# Chat Application - OptiChat
 					
 
 ## Team Members:
