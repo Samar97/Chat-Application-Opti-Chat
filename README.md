@@ -2,10 +2,14 @@
 					
 
 ## Team Members:
-ANIKET SHIRKE
-HUZEFA CHASMAI
-SAMARJEET SAHOO
-UDDESHYA UPPADHYAY 
+
+	ANIKET SHIRKE
+
+	HUZEFA CHASMAI
+
+	SAMARJEET SAHOO
+
+	UDDESHYA UPPADHYAY 
 
 ## Packages required on system: 
 1. Python 2.7 or above
